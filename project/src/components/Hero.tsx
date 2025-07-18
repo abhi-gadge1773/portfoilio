@@ -40,10 +40,14 @@ const Hero: React.FC = () => {
               View My Work
               <ExternalLink size={18} />
             </button>
-            <button className="px-8 py-3 border border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-slate-900 rounded-lg font-semibold transition-all duration-200 transform hover:scale-105 flex items-center gap-2 justify-center">
+            <a
+              href="/resume.docx"
+              download
+              className="px-8 py-3 border border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-slate-900 rounded-lg font-semibold transition-all duration-200 transform hover:scale-105 flex items-center gap-2 justify-center"
+            >
               Download Resume
               <Download size={18} />
-            </button>
+            </a>
           </div>
           
           {/* Social Links */}

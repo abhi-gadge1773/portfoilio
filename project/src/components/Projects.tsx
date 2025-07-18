@@ -23,7 +23,7 @@ const Projects: React.FC = () => {
       tech: ["AWS", "Kubernetes", "Jenkins", "Terraform", "ArgoCD", "GitOps"],
       github: "#",
       demo: "#",
-      status: "in-progress",
+      status: "completed",
       highlights: [
         "Self-managed Kubernetes cluster",
         "Infrastructure as Code with Terraform",
