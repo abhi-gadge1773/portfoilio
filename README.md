@@ -2,43 +2,44 @@
 
 Welcome to my **DevOps Portfolio Website** built using modern frontend tools to showcase my skills, projects, and experience in Cloud and DevOps engineering.
 
-🌐 **Live Website**: [https://abhijeet-24-portfolio.netlify.app/](https://abhijeet-24-portfolio.netlify.app/)
-
+🌐 **Live Website**: [https://abhijeet-24-portfolio.netlify.app/](https://abhijeet-24-portfolio.netlify.app/)  
 📂 **GitHub Repository**: [https://github.com/abhi-gadge1773/portfolio](https://github.com/abhi-gadge1773/portfolio)
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend Framework**: React.js
-- **Styling**: CSS3 / Tailwind CSS
-- **Deployment**: Netlify
+- ⚛️ **Frontend Framework**: React.js  
+- 🎨 **Styling**: CSS3 / Tailwind CSS  
+- 🚀 **Deployment**: Netlify  
 
 ---
 
 ## 📁 Folder Structure
+
+```
 portfolio/
 ├── public/
 ├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── pages/
-│ └── App.js
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   └── App.js
 ├── .gitignore
 ├── package.json
 ├── README.md
 └── netlify.toml
-
+```
 
 ---
 
 ## 🚀 Getting Started Locally
 
-### Prerequisites
+### ✅ Prerequisites
 
 - Node.js and npm installed
 
-### Setup Instructions
+### ⚙️ Setup Instructions
 
 ```bash
 # Clone the repository
@@ -48,14 +49,21 @@ cd portfolio
 # Install dependencies
 npm install
 
-# Start development server
+# Start the development server
 npm start
-🚢 Deployment
-This portfolio is deployed on Netlify.
+```
 
-🔗 Live URL: https://github.com/abhi-gadge1773/portfolio
+---
 
-Every push to the main branch auto-deploys the site.
+## 🚢 Deployment
+
+This portfolio is deployed on **Netlify**.
+
+🔗 **Live URL**: [https://abhijeet-24-portfolio.netlify.app](https://abhijeet-24-portfolio.netlify.app)
+
+Every push to the `main` branch auto-deploys the site via Netlify CI/CD.
+
+---
 
 ## 📬 Contact Me
 
@@ -65,8 +73,7 @@ Every push to the main branch auto-deploys the site.
 - 💻 **GitHub**: [github.com/abhi-gadge1773](https://github.com/abhi-gadge1773)  
 - 🐦 **Twitter**: [x.com/AbhiGadge5](https://x.com/AbhiGadge5)
 
+---
 
-
-
-
-
+> 💡 *“Strong believer in automation, scalability, and collaboration.”*  
+> *– Abhijeet Gadge*
