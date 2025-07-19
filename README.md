@@ -57,14 +57,13 @@ This portfolio is deployed on Netlify.
 
 Every push to the main branch auto-deploys the site.
 
-📬 Contact
-Abhijeet Gadge
-DevOps Engineer | Cloud Enthusiast
-📧 Email: abhijeetgadge100@gmail.com
-🔗 LinkedIn
-💻 GitHub
-🐦 Twitter
+## 📬 Contact Me
 
+- 👨‍💼 **Abhijeet Gadge** – *DevOps Engineer | Cloud Enthusiast*  
+- 📧 **Email**: [abhijeetgadge100@gmail.com](mailto:abhijeetgadge100@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/abhijeetgadge](https://www.linkedin.com/in/abhijeetgadge/)  
+- 💻 **GitHub**: [github.com/abhi-gadge1773](https://github.com/abhi-gadge1773)  
+- 🐦 **Twitter**: [x.com/AbhiGadge5](https://x.com/AbhiGadge5)
 
 
 
