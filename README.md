@@ -53,7 +53,7 @@ npm start
 🚢 Deployment
 This portfolio is deployed on Netlify.
 
-🔗 Live URL: https://abhijeet-24-portfolio.netlify.app/
+🔗 Live URL: https://github.com/abhi-gadge1773/portfolio
 
 Every push to the main branch auto-deploys the site.
 
@@ -66,14 +66,6 @@ DevOps Engineer | Cloud Enthusiast
 🐦 Twitter
 
 
----
-
-Would you like me to:
-- Add Netlify deploy status badge?
-- Add an actual screenshot in the preview section?
-- Help create a `LICENSE` file?
-
-Let me know and I’ll assist right away.
 
 
 
