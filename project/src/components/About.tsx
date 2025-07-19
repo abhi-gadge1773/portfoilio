@@ -46,13 +46,12 @@ const About: React.FC = () => {
             </div>
             
             <div className="relative">
-              <div className="w-full h-80 bg-gradient-to-br from-blue-600/20 to-blue-800/20 rounded-lg flex items-center justify-center">
-                <div className="text-center">
-                  <div className="w-24 h-24 mx-auto mb-4 rounded-full bg-gradient-to-r from-blue-400 to-blue-600 flex items-center justify-center text-2xl font-bold">
-                    AG
-                  </div>
-                  <p className="text-gray-400">Profile Photo Placeholder</p>
-                </div>
+              <div className="w-full h-80 bg-gradient-to-br from-blue-600/20 to-blue-800/20 rounded-lg flex items-center justify-center overflow-hidden">
+                <img 
+                  src="/Profile-photo.png" 
+                  alt="Profile Photo" 
+                  className="w-full h-full object-cover rounded-lg"
+                />
               </div>
             </div>
           </div>

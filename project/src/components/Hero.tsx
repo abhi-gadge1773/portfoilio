@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
           {/* Profile Image */}
           <div className="w-32 h-32 mx-auto mb-8 rounded-full overflow-hidden shadow-2xl border-4 border-blue-400">
             <img
-              src="/profile-photo.jpg"
+              src="/Profile-photo.png"
               alt="Abhijeet Gadge Profile Photo"
               className="w-full h-full object-cover"
             />

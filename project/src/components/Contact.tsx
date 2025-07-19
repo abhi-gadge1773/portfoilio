@@ -6,8 +6,8 @@ const Contact: React.FC = () => {
     {
       icon: <Mail size={24} />,
       label: "Email",
-      value: "abhijeetgadge100@gmail.com",
-      href: "mailto:abhijeetgadge100@gmail.com",
+      value: "abhijeet.gadge@example.com",
+      href: "mailto:abhijeet.gadge@example.com",
       color: "from-red-400 to-red-600"
     },
     {
