@@ -33,7 +33,7 @@ const About: React.FC = () => {
             About Me
           </h2>
           
-          <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
+          <div className="max-w-4xl mx-auto mb-16">
             <div>
               <p className="text-lg text-gray-300 leading-relaxed mb-6">
                 Hands-on with CI/CD pipelines, Infrastructure as Code (IaC), and cloud-native deployment. 
@@ -43,16 +43,6 @@ const About: React.FC = () => {
                 Keen learner with a strong grasp on real-world problem-solving in cloud-native ecosystems. 
                 I believe in the power of automation to transform how teams deliver software and manage infrastructure.
               </p>
-            </div>
-            
-            <div className="relative">
-              <div className="w-full h-80 bg-gradient-to-br from-blue-600/20 to-blue-800/20 rounded-lg flex items-center justify-center overflow-hidden">
-                <img 
-                  src="/Profile-photo.png" 
-                  alt="Profile Photo" 
-                  className="w-full h-full object-cover rounded-lg"
-                />
-              </div>
             </div>
           </div>
           
