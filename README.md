@@ -24,7 +24,6 @@ Welcome to my **DevOps Portfolio Website** built using modern frontend tools to 
 ## 📁 Folder Structure
 
 ```
-
 portfolio/
 ├── public/
 ├── src/
